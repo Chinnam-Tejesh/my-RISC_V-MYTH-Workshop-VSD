@@ -5,7 +5,6 @@ Documention of the labs done in the workshop.
 <br>
 
 ---
-
 ## Lab 1 
 - Title: **c program to compute sum from 1 to N.**
 - Objective: to use GCC (of host) and execute a simple c program.
@@ -18,7 +17,6 @@ Documention of the labs done in the workshop.
 <br>
 
 ---
-
 ## Lab 2
 - Title: **RISCV GCC compile and disassemble.**
 - Objective: to use GCC (RISCV) for compiling and disassembling.
@@ -35,5 +33,18 @@ Documention of the labs done in the workshop.
 <br>
 
 ---
-
 ## Lab 3
+- Title: **Spike Simulation and Debug**
+- Objective: to simulate and debug a c program using spike
+- Steps:
+    - using the sum1tN.c file
+    ![sum1tN.c file](L2/L2_sum1tN.png)
+    - pass the file to **riscv64-unkown-elf-gcc** with the flags: -march=rv64i, -mabi=lp64, optimisation -Ofast and -o sumitN_riscv
+    - run the output (sumitN_riscv) using **spike pk**
+    ![spike sim](L3/L3_spike.png)
+    - Note: spike is the tool and pk flag indicates the riscv simulator, and -d flag in addition is used for debugging riscv.
+
+<br>
+
+---
+## Lab 4
