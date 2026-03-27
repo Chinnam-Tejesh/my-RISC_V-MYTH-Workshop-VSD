@@ -3,6 +3,7 @@
 Documention of the labs done in the workshop.
 
 <br>
+
 ---
 
 ## Lab 1 
@@ -15,6 +16,7 @@ Documention of the labs done in the workshop.
     ![output of sum1tN](L1/L1_terminal_sum1tN.png)
 
 <br>
+
 ---
 
 ## Lab 2
@@ -28,9 +30,10 @@ Documention of the labs done in the workshop.
     - the file sum1tN.o is passed to the **riscv64-unkown-elf-objdump** with the flags: -d and | less
     ![riscv gcc objdump terminal](L2/L2_riscv_debug_terminal.png)
     ![riscv gcc debug main](L2/L2_RISCV_debug.png)
-    - Note: the main starts from address 10184 and ends at 101B0, which gives B (11 in decimal) instructions inside main.
+    - Note: the main starts from address 10184 and ends at 101B0, which gives B (11 in decimal) instructions inside the main function.
 
 <br>
+
 ---
 
 ## Lab 3
