@@ -6,6 +6,6 @@ Hello! and welcome to my repo, here i am documenting the learnings and labs of t
 **About me: **
 
 - **Name: ** ***Ch Tejesh Sri Abhay***
-- **Linkdin Profile: ** [Ch Tejesh](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
+- **Linkdin Profile: ** [link to my LinkdIn](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
 
 ---
