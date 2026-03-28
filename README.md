@@ -9,3 +9,5 @@ Hello! and welcome to my repo, here i am documenting the learnings and labs of t
 - Linkdin Profile: [my LinkdIn Profile link](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
 
 ---
+## Navigation:
+- Check out the [Labs](https://github.com/Chinnam-Tejesh/my-RISC_V-MYTH-Workshop-VSD/tree/main/Labs).
