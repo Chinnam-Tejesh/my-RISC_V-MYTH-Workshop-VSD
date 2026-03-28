@@ -1,2 +1,9 @@
 # my-RISC_V-MYTH-Workshop-VSD
-In this repo I am going to document the teachings (brief) and my work done (from labs to final-project) !!!
+Hello! and welcome to my repo, here i am documenting the learnings and labs of the RISC-V MYTH Workshop conducted by VSD.
+
+<br>
+
+**Author: ** ***Ch Tejesh Sri Abhay***. 
+**Linkdin Profile: ** !(Ch Tejesh)[https://www.linkedin.com/in/tejesh-sri-abhay-chinnam]
+
+---
