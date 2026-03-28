@@ -54,7 +54,7 @@ Documention of the labs done in the workshop.
     - Note: the value to variables in the programs of signed and unsigned are given as 2 power (*bit_width* * 2), that is 2 power 128. And it is way beyond 64 bits can hold.
     - C code for finding min and max values for unsigned integer:
     - ![unsigned min max](L4/unsigned_min_max.png)
-    - C code for finding min and max values for unsigned integer:
+    - C code for finding min and max values for signed integer:
     - ![signed min max](L4/signed_min_max.png)
     - The outputs of simulating the above c codes using **spike tool** (with flag: pk) is:
     - ![riscV signed unsigned](L4/riscV_signed_unsigned_min_max.png)
