@@ -35,7 +35,7 @@ Documention of the labs done in the workshop.
 ---
 ## Lab 3
 - Title: **Spike Simulation and Debug**
-- Objective: to simulate and debug a c program using spike
+- Objective: to simulate and debug a c program using spike.
 - Steps:
     - using the sum1tN.c file
     - ![sum1tN.c file](L2/L2_sum1tN.png)
@@ -48,3 +48,18 @@ Documention of the labs done in the workshop.
 
 ---
 ## Lab 4
+- Title: **Signed and Unsigned Numbers**
+- Objective: to simulate and find out the maximum and minimum values of signed and unsigned integer.
+- Steps:
+    - Note: the value to variables in the programs of signed and unsigned are given as 2 power (*bit_width* * 2), that is 2 power 128. And it is way beyond 64 bits can hold.
+    - C code for finding min and max values for unsigned integer:
+    - ![unsigned min max](L4/unsigned_min_max.png)
+    - C code for finding min and max values for unsigned integer:
+    - ![signed min max](L4/signed_min_max.png)
+    - The outputs of simulating the above c codes using **spike tool** (with flag: pk) is:
+    - ![riscV signed unsigned](L4/riscV_signed_unsigned_min_max.png)
+
+<br>
+
+---
+## Lab 5
