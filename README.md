@@ -4,6 +4,6 @@ Hello! and welcome to my repo, here i am documenting the learnings and labs of t
 <br>
 
 **Author: ** ***Ch Tejesh Sri Abhay***. 
-**Linkdin Profile: ** !(Ch Tejesh)[https://www.linkedin.com/in/tejesh-sri-abhay-chinnam]
+**Linkdin Profile: ** ![Ch Tejesh](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
 
 ---
