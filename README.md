@@ -3,9 +3,9 @@ Hello! and welcome to my repo, here i am documenting the learnings and labs of t
 
 <br>
 
-**About me: **
+**About me:**
 
-- **Name: ** ***Ch Tejesh Sri Abhay***
-- **Linkdin Profile: ** [link to my LinkdIn](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
+- Name: **Ch Tejesh Sri Abhay**
+- Linkdin Profile: [my LinkdIn Profile link](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
 
 ---
