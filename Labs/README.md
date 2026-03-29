@@ -72,6 +72,9 @@ Documention of the labs done in the workshop.
     - ![ASM program computing sum 1 to N](L5/L5_asm.png)
     - Compiled C and ASM programs (using GCC RISCV cross compiler), simulated (using spike pk). for 2 N values ( 9 and 15):
     - ![compilation and simulation of C and ASM progream](L5/L5_output.png)
+    - Output of Debugger (riscv64-unkown-elf-objdump with flag -d):
+    - ![C main Debug riscv](L5/L5_c_debug.png)
+    - ![asm Debug riscv](L5/L5_asm_debug.png)
 
 <br>
 
