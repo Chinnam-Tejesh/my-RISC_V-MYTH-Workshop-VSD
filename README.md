@@ -10,4 +10,5 @@ Hello! and welcome to my repo, here i am documenting the learnings and labs of t
 
 ---
 ## Navigation:
-- Check out the [Lab-work of D1 and D2](https://github.com/Chinnam-Tejesh/my-RISC_V-MYTH-Workshop-VSD/tree/main/Labs_D1_&_D2) during Day-1 and Day-2.
+- Check out the [Lab-work of D1 and D2](https://github.com/Chinnam-Tejesh/my-RISC_V-MYTH-Workshop-VSD/tree/main/Labs_D1_&_D2) done during Day-1 and Day-2.
+- Check out the [Lab-work of D3, D4 and D5](https://github.com/Chinnam-Tejesh/my-RISC_V-MYTH-Workshop-VSD/tree/main/Labs_D3_D4_&_D5) done during Day-3, Day-4 and Day-5.

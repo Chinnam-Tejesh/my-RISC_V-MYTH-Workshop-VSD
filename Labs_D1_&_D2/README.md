@@ -1,8 +1,8 @@
 # Labs Day-1 and Day-2
 
-Documention of the labs done in the RISCV MYTH workshop during Day-1 and Day-2. containing the tools *GCC RISCV* (cross compiler) and *SPIKE RISCV* (bare metal simulator simulator), and programming languages *C* and *ASM*.
+Documention of the labs done in the RISCV MYTH workshop during Day-1 and Day-2. containing the tools **GCC RISCV** (*cross compiler*) and **SPIKE RISCV** (*bare-metal RISCV simulator*), and programming languages **C** and **ASM**.
 
-- **Index**:
+- **Index:**
     - [Lab 1](#lab-1) C program to compute sum from 1 to N.
     - [Lab 2](#lab-2) RISC-V GCC cross compile and disassembling.
     - [Lab 3](#lab-3) Spike Simulation and Debugging.
