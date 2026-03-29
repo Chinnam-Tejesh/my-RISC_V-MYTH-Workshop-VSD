@@ -1,12 +1,21 @@
 # Labs
 
-Documention of the labs done in the workshop.
+Documention of the labs done in the workshop during Day 1 (D1) and Day 2 (D2).
+
+- Index:
+    - [Lab 1](#lab-1) C program to compute sum from 1 to N.
+    - [Lab 2](#lab-2) RISC-V GCC cross compile and disassembling.
+    - [Lab 3](#lab-3) Spike Simulation and Debugging.
+    - [Lab 4](#lab-4) min and max values of Signed and Unsigned double words.
+    - [Lab 5](#lab-5) Sum 1 to N using C and ASM (understanding ABI).
+
 
 <br>
 
 ---
+---
 ## Lab 1 
-- Title: **c program to compute sum from 1 to N.**
+- Title: **C program to compute sum from 1 to N.**
 - Objective: to use GCC (of host) and execute a simple c program.
 - Steps:
     - The C code for sum of numbers from 1 to N
