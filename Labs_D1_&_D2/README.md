@@ -1,14 +1,14 @@
-# Labs
+# Labs Day-1 and Day-2
 
-Documention of the labs done in the workshop during Day 1 (D1) and Day 2 (D2).
+Documention of the labs done in the RISCV MYTH workshop during Day-1 and Day-2. containing the tools *GCC RISCV* (cross compiler) and *SPIKE RISCV* (bare metal simulator simulator), and programming languages *C* and *ASM*.
 
-- Index:
+- **Index**:
     - [Lab 1](#lab-1) C program to compute sum from 1 to N.
     - [Lab 2](#lab-2) RISC-V GCC cross compile and disassembling.
     - [Lab 3](#lab-3) Spike Simulation and Debugging.
     - [Lab 4](#lab-4) min and max values of Signed and Unsigned double words.
     - [Lab 5](#lab-5) Sum 1 to N using C and ASM (understanding ABI).
-
+- Note: the images might take time to load. 
 
 <br>
 
