@@ -63,3 +63,17 @@ Documention of the labs done in the workshop.
 
 ---
 ## Lab 5
+- Title: **Sum 1 to N using ASM (understanding ABI)**
+- Objective to call an asm function from C program and compute the result of sum from 1 to N.
+- Steps:
+    - C program calling an asm function (lable):
+    - ![C progream calling asm function](L5/L5_c.png)
+    - ASM program taking arguments and computing the sum from 1 to N:
+    - ![ASM program computing sum 1 to N](L5/L5_asm.png)
+    - Compiled C and ASM programs (using GCC RISCV cross compiler), simulated (using spike pk). for 2 N values ( 9 and 15):
+    - ![compilation and simulation of C and ASM progream](L5/L5_output.png)
+
+<br>
+
+---
+## Lab 6
