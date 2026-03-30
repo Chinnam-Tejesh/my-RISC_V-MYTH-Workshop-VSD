@@ -4,7 +4,8 @@ Documention of the labs done in the RISCV MYTH workshop during Day-3, Day-4 and 
 
 - **Index:**
     - [Lab 1](#lab-1) Combinational circuits in TL-Verilog.
-    - [Lab ]() .
+    - [Lab 2](#lab-2) Sequential circuits in TL-Verilog.
+    - 
 - Note: the images might take time to load. 
 
 <br>
@@ -15,6 +16,9 @@ Documention of the labs done in the RISCV MYTH workshop during Day-3, Day-4 and 
 - Title: **Lab on Combinational circuits**
 - Objective: use makerchip online IDE to perform the stated tasks.
 - Tasks in total: 0 to 4.
+
+<br>
+
 - **Task 0:**
     - **Objective:** To *Navigate, Setup and Recreate* the screen in makerchip online IDE.
     - Note: the lab is to focus on the error ports, and check that makerchip online IDE auto highlites all occurances everywhere.
@@ -46,3 +50,14 @@ Documention of the labs done in the RISCV MYTH workshop during Day-3, Day-4 and 
 
 ---
 ## Lab 2
+- Title: **Lab on Sequential circuits**
+- Objective: use makerchip online IDE to perform the stated tasks.
+- Tasks in total: 0 to 1.
+
+<br>
+
+- **Task 0:**
+    - **Objective:** to write the TL-Verilog code for counter
+    - **Details:** increament the out by 1 every clock cycle.
+    - Note: the alert/warning logo beside the Log is due to not assigning few variables, it is not an issue since the makerchip online IDE identifies creates an random stymulus.
+    - ![makerchip counter](L2/L2_task0_Counter.png)
