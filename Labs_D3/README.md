@@ -110,7 +110,7 @@ Documention of the labs done in the RISCV MYTH workshop module D3.
     - ![makerchip calculator with valid](L3/L3_task3_Calculator_Validity_1.png)
     - ![makerchip calculator with valid](L3/L3_task3_Calculator_Validity_2.png)
 
-- **Task 0:**
+- **Task 4:**
     - **Objective:** To write the TL-Verilog code for Calculator with memory.
     - **Details:** recall with $op is 3'b101 and new value when $op[2] is high.
     - Note: the alert/warning logo beside the Log is due to not assigning few variables, it is not an issue since the makerchip online IDE identifies creates an random stymulus.
