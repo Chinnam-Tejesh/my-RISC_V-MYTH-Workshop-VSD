@@ -12,6 +12,10 @@ Documention of the labs done in the RISCV MYTH workshop module D4 and D5.
 ---
 ## D-5 module
 
-- Check the code for Cycle Hazard handling [here](Labs_D4_&_D5/Cycle3_hazard_handling.tlv).
+- Check the code for **Cycle Hazard handling** [here](Labs_D4_&_D5/D5/Cycle3_hazard_handling.tlv).
+    - Note: here the pc behaviour is expected to point way outside the program scope during the invalid cycles
+    - the logic can be coded if the program scope is known, if the behaviour is confusing - i didnt, moving to advanced way of handling hazards.
+
+- Check the code for **Cycle RISCV** [here](Labs_D4_&_D5/D5/Cycle3_RISCV.tlv).
     - Note: here the pc behaviour is expected to point way outside the program scope during the invalid cycles
     - the logic can be coded if the program scope is known, if the behaviour is confusing - i didnt, moving to advanced way of handling hazards.
