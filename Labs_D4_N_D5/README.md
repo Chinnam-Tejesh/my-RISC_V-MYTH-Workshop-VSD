@@ -1,6 +1,8 @@
-# Labs of D3 and D4 modules
+# Labs of D4 and D5 modules
 
 Documention of the labs done in the RISCV MYTH workshop module D4 and D5.
+
+- Note: the code is verified seeing its behaviour in the viz (executing the program sum 1 to 9).
 
 ## D-4 module
 
