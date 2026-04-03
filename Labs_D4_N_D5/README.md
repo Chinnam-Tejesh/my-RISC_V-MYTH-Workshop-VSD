@@ -29,3 +29,11 @@ Documention of the labs done in the RISCV MYTH workshop module D4 and D5.
 
 - Check the code for **RV32I base ISA** without fence, ecall and ebreak here: [RV32I_expect_sys_calls](/Labs_D4_N_D5/D5/RV32I_expect_sys_calls.tlv).
     - Note: here the pc behaviour is expected to point way outside the program scope during the branching instruction as it waits for branch traget to be computed.
+
+<br>
+
+## Final RISCV MYTH workshop output
+
+- Check the code for **Final output of RISCV MYTH Workshop** here: [workshop_Final](/Labs_D4_N_D5/D5/workshop_Final.tlv)
+    - Note: viz is having internal issues for program cycle 2 (after JAL) but the output is verified for 2 full program runs.
+    - pass creteria is updated: *passed = *cyc_cnt > 130; // 61 for *passed = |cpu/xreg[17]>>5$value == (1+2+3+4+5+6+7+8+9) .
