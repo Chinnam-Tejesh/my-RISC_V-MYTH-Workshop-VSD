@@ -1,4 +1,4 @@
-# Labs of D3 and D4 modules
+# Labs of D4 and D5 modules
 
 Documention of the labs done in the RISCV MYTH workshop module D4 and D5.
 
