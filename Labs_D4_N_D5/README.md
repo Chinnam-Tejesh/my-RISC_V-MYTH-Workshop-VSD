@@ -2,6 +2,8 @@
 
 Documention of the labs done in the RISCV MYTH workshop module D4 and D5.
 
+- Note: the code is verified seeing its behaviour in the viz (executing the program sum 1 to 9).
+
 ## D-4 module
 
 - Check the Code for D-4 final module here: [end_of_day4.tlv](/Labs_D4_N_D5/end_of_day4.tlv).
