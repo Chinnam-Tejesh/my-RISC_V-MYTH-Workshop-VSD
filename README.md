@@ -1,6 +1,8 @@
 # my-RISC_V-MYTH-Workshop-VSD
 Hello! and welcome to my repo, here i am documenting the learnings and labs of the RISC-V MYTH Workshop conducted by VLSI Systems Design (VSD).
 
+Goal is to implement RV32I and verify its functionality using RISC-V Tool-chain.
+
 <br>
 
 **About Me:**
